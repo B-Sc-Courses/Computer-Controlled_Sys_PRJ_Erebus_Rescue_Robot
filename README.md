@@ -1,1 +1,3 @@
-# Computer-Controlled_Sys_PRJ_Erebus_Rescue_Robot
+# Computer Controlled Systems PRJ (Erebus Rescue Robot)
+
+Copy files to Erebus Rescue Robot in Webot Simulator
